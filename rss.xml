@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Amelia Culwell]]></title>
+        <description><![CDATA[Amelia Culwell]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 16:52:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Powerscourt Gardens]]></title>
+            <description><![CDATA[<article><h1>Powerscourt Gardens</h1><p>Powerscourt Gardens in Wicklow, Ireland is one of the most beautiful and magical places I've ever visited in my life!  I could spend every day here just admiring God's creation.</p></article>]]></description>
+            <link>undefinedpowerscourt-gardens/index.html</link>
+            <guid isPermaLink="false">50987429-ec22-48f6-b99e-24066fe6a241</guid>
+            <pubDate>Sun, 13 Dec 2015 16:52:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
